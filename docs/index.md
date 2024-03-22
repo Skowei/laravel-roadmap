@@ -1,3 +1,1 @@
-Index
-
-[Junior](./junior.md)
+[Laravel](./laravel/index.md)
